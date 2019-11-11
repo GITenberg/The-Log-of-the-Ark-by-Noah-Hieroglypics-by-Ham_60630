@@ -1,0 +1,39 @@
+_repo: The-Log-of-the-Ark-by-Noah-Hieroglypics-by-Ham_60630
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Frueh, Alfred Joseph
+    aliases:
+    - Frueh, A. J. (Alfred Joseph)
+    - Frueh, Al
+    birthdate: 1880
+    deathdate: 1968
+    gutenberg_agent_id: '51061'
+    url: http://www.gutenberg.org/2009/agents/51061
+creator:
+  author:
+    agent_name: Gordon, Irwin Leslie
+    alias: Gordon, I. L. (Irwin Leslie)
+    birthdate: 1888
+    deathdate: 1954
+    gutenberg_agent_id: '499'
+    url: http://www.gutenberg.org/2009/agents/499
+description: ''
+gutenberg_issued: '2019-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60630'
+  lccn: '15024932'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Noah''s ark'
+- !lcsh 'Deluge'
+- !lcc 'PN'
+- !lcsh 'American wit and humor'
+- !lcc 'PS'
+- GITenberg
+title: The Log of the Ark, by Noah; Hieroglypics by Ham
+url: http://www.gutenberg.org/ebooks/60630
